@@ -1,1 +1,1 @@
-# FaceRecognition
+Goal of the program is to provide face recognition based on the pixels density and shade. Dataset used with this code provided thousends of pictures for 48 famous people. Aim of the code was for model to learn on half of the pictures of every person and test it on the other half of pictures. Pictures were provided in numeric manner. Each picture contained numerical values describing pixels darkness(0-1) and characteristics like: gender. Unfortunatelly dataset was provided by academic sources and is not available for me anymore.
